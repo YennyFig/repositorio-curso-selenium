@@ -20,6 +20,8 @@ public class Ejercicio4 {
 		
 		if (a == b) {
 			System.out.println(a + " Es numero igual " + b);
+			
+			
 	    }
 	}
 }
